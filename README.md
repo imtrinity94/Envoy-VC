@@ -46,9 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -100,16 +98,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>In theory, theory and practice are the same. In practice, they’re not.</p>
+<p>QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.</p>
 
-<p>Yogi Berra</p>
+<p>Bill Sempf</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>3 SQL statements walk into a NoSQL bar. Soon, they walk out</p>
-<p>They couldn't find a table.</p>
+<p>There are 10 kinds of people in this world.</p>
+<p>Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.</p>
 
 
 Check back in an hour for new joke
