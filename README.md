@@ -43,36 +43,6 @@ while(dev.isCoding() && dev.isStuck())
   dev.feelProfessional();
 }
 ```
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Envoy_1084-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Envoy_1084)
-[![Gmail](https://img.shields.io/badge/-envoy1084-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:envoy1084@gmail.com)
-[![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/envoy_)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://envoy1084.hashnode.dev/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC78DzAGJBqa8hds6LQ7G5fQ)
-
-### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-![Windows 10 v20H2](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## 💻 Workspace Spec
-
-![Windows](https://img.shields.io/badge/Windows-v_20H2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-## ❤ Support me
-![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
-
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -102,6 +72,34 @@ while(dev.isCoding() && dev.isStuck())
 </a>
 
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://github.com/Envoy-VC/Envoy-VC/blob/main/images/stat.svg" alt="Envoy_ WakaTime Activity" align=center/></a>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-Envoy_1084-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Envoy_1084)
+[![Gmail](https://img.shields.io/badge/-envoy1084-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:envoy1084@gmail.com)
+[![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/envoy_)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://envoy1084.hashnode.dev/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC78DzAGJBqa8hds6LQ7G5fQ)
+
+### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+![Windows 10 v20H2](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 💻 Workspace Spec
+
+![Windows](https://img.shields.io/badge/Windows-v_20H2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+## ❤ Support me
+![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
 <p>{quote}</p>
