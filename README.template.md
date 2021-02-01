@@ -73,7 +73,11 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" align=center/></a>
-<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://github.com/Envoy-VC/Envoy-VC/blob/main/images/stat.svg" alt="Envoy_ WakaTime Activity" align=center/></a>
+
+<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://wakatime.com/share/@envoy/ede91330-e8b5-476e-8850-1139b9b947d2.png" alt="Envoy_ WakaTime Activity" align=center/></a>
+
+<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://wakatime.com/share/@envoy/e986d3d7-8357-4c2c-bf10-02c1394fbd75.svg" alt="Envoy_ WakaTime Activity" align=center/></a>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
