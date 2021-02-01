@@ -46,10 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A List of Curated Badges for GitHub](https://envoy1084.hashnode.dev/a-list-of-curated-badges-for-github)
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -64,13 +61,23 @@ while(dev.isCoding() && dev.isStuck())
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<br>
+<a href="https://github.com/Envoy-VC/Badges-for-GitHub">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=Badges-for-GitHub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" align=center/></a>
-<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://github.com/Envoy-VC/Envoy-VC/blob/main/images/stat.svg" alt="Envoy_ WakaTime Activity" align=center/></a>
+
+<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://wakatime.com/share/@envoy/ede91330-e8b5-476e-8850-1139b9b947d2.png" alt="Envoy_ WakaTime Activity" align=center/></a>
+
+<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://wakatime.com/share/@envoy/e986d3d7-8357-4c2c-bf10-02c1394fbd75.svg" alt="Envoy_ WakaTime Activity" align=center/></a>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -101,16 +108,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”</p>
+<p>Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.</p>
 
-<p>Charles Babbage</p>
+<p>Brian Kernighan</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>There are 10 types of people in this world...</p>
-<p>Those who understand binary and those who don't</p>
+<p>How do you check if a webpage is HTML5?</p>
+<p>Try it out on Internet Explorer</p>
 
 
 Check back in an hour for new joke
