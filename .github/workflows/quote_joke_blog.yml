@@ -1,3 +1,4 @@
+
 name: Dynamic README injection
 on:
   schedule: # Run workflow automatically
@@ -32,3 +33,14 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
+
+  update-readme-with-blog:
+    needs: get-office-quotes
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # Replace this URL with your rss feed URL/s
+          feed_list: "https://envoy1084.hashnode.dev/rss.xml"
