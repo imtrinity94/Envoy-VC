@@ -98,16 +98,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>{quote}</p>
+<p>Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.</p>
 
-<p>{author}</p>
+<p>Unknown</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>{joke}</p>
-<p>{punchline}</p>
+<p>undefined</p>
+<p>undefined</p>
 
 
 Check back in an hour for new joke
