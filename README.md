@@ -63,13 +63,10 @@ while(dev.isCoding() && dev.isStuck())
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/Envoy-VC">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envoy-VC&hide=html,css&theme=synthwave" />
-</a>
-
-<a href="https://github.com/Envoy-VC">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Envoy-VC's GitHub Stats" />
-</a>
+<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Stats" align=center/></a>
+<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Stats" align=center/></a>
+<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Stats" align=center/></a>
+<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" align=center/></a>
 
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://github.com/Envoy-VC/Envoy-VC/blob/main/images/stat.svg" alt="Envoy_ WakaTime Activity" align=center/></a>
 
