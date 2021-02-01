@@ -46,9 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -100,16 +98,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.</p>
+<p>In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.</p>
 
-<p>Bill Sempf</p>
+<p>Bjarne Stroustrup</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>There are 10 kinds of people in this world.</p>
-<p>Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.</p>
+<p>To understand what recursion is...</p>
+<p>You must first understand what recursion is</p>
 
 
 Check back in an hour for new joke
