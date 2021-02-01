@@ -98,16 +98,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>{quote}</p>
+<p>Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.</p>
 
-<p>{author}</p>
+<p>Alan Kay</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>{joke}</p>
-<p>{punchline}</p>
+<p>What's the best part about TCP jokes?</p>
+<p>I get to keep telling them until you get them.</p>
 
 
 Check back in an hour for new joke
