@@ -46,9 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -100,16 +98,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.</p>
+<p>Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.</p>
 
-<p>Albert Einstein</p>
+<p>Unknown</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A user interface is like a joke.</p>
-<p>If you have to explain it then it is not that good.</p>
+<p>How many programmers does it take to change a lightbulb?</p>
+<p>None that's a hardware problem</p>
 
 
 Check back in an hour for new joke
