@@ -67,7 +67,6 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" align=center/></a>
-
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://github.com/Envoy-VC/Envoy-VC/blob/main/images/stat.svg" alt="Envoy_ WakaTime Activity" align=center/></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
