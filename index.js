@@ -17,14 +17,14 @@ async function main() {
     ).json();
 
     console.log(quote);
-    console.log(get_joke);
+    console.log(get_joke[0]);
 
 
     const readme = readmeTemplate
         .replace("{quote}", quote.quote)
         .replace("{author}", quote.author)
-        .replace("{joke}",get_joke.setup)
-        .replace("{punchline}",get_joke.punchline)
+        .replace("{joke}",get_joke[0]['setup'])
+        .replace("{punchline}",get_joke[0]['punchline'])
 
     await fs.writeFile("README.md", readme);
 }
