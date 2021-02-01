@@ -46,9 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -100,16 +98,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>I love deadlines. I like the whooshing sound they make as they fly by.</p>
+<p>There are only two kinds of programming languages: those people always bitch about and those nobody uses.</p>
 
-<p>Douglas Adams</p>
+<p>Bjarne Stroustrup</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>What's the best part about TCP jokes?</p>
-<p>I get to keep telling them until you get them.</p>
+<p>3 SQL statements walk into a NoSQL bar. Soon, they walk out</p>
+<p>They couldn't find a table.</p>
 
 
 Check back in an hour for new joke
