@@ -46,9 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -100,16 +98,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.</p>
+<p>Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.</p>
 
-<p>Bjarne Stroustrup</p>
+<p>Albert Einstein</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>To understand what recursion is...</p>
-<p>You must first understand what recursion is</p>
+<p>A user interface is like a joke.</p>
+<p>If you have to explain it then it is not that good.</p>
 
 
 Check back in an hour for new joke
