@@ -61,6 +61,10 @@ while(dev.isCoding() && dev.isStuck())
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<br>
+<a href="https://github.com/Envoy-VC/Badges-for-GitHub">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=Badges-for-GitHub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Stats" align=center/></a>
