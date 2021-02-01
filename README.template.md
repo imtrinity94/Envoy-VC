@@ -107,6 +107,7 @@ Check back in an hour for new quote
 ## 📣 Joke of the hour
 
 <p>{joke}</p>
+<p>{punchline}</p>
 
 
 Check back in an hour for new joke
