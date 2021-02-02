@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn JavaScript the Eloquent Way-What is JavaScript](https://envoy1084.hashnode.dev/1-what-is-javascript)
-- [A List of Curated Badges for GitHub](https://envoy1084.hashnode.dev/a-list-of-curated-badges-for-github)
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>You should name a variable using the same care with which you name a first-born child.</p>
+<p>I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.</p>
 
-<p>James O. Coplien</p>
+<p>Larry DeLuca</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>If you put a million monkeys at a million keyboards, one of them will eventually write a Java program</p>
-<p>the rest of them will write Perl</p>
+<p>3 SQL statements walk into a NoSQL bar. Soon, they walk out</p>
+<p>They couldn't find a table.</p>
 
 
 Check back in an hour for new joke
