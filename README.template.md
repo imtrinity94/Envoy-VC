@@ -74,8 +74,8 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" align=center/></a>
 
-<figure><embed src="https://wakatime.com/share/@envoy/fef388ea-6f05-44ee-a4ae-2c2f1ae253a3.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@envoy/a92c740f-864c-4b3b-94c6-73d76e739dd9.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@envoy/08947c0c-d7f7-4ef3-855b-b6687f44df6c.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@envoy/c6823c8e-c74a-47b0-bd13-005bc951e1f5.png" /></a>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
