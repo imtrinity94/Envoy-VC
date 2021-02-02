@@ -46,10 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A List of Curated Badges for GitHub](https://envoy1084.hashnode.dev/a-list-of-curated-badges-for-github)
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -77,9 +74,8 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Stats" align=center/></a>
 <a href="https://github.com/Envoy-VC/Envoy-VC"><img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" align=center/></a>
 
-<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://wakatime.com/share/@envoy/ede91330-e8b5-476e-8850-1139b9b947d2.png" alt="Envoy_ WakaTime Activity" align=center/></a>
-
-<a href="https://github.com/Envoy-VC/Envoy-VC"><img src="https://wakatime.com/share/@envoy/e986d3d7-8357-4c2c-bf10-02c1394fbd75.svg" alt="Envoy_ WakaTime Activity" align=center/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@envoy/08947c0c-d7f7-4ef3-855b-b6687f44df6c.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@envoy/c6823c8e-c74a-47b0-bd13-005bc951e1f5.png" /></a>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Computers are like bikinis. They save people a lot of guesswork.</p>
+<p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.</p>
 
-<p>Sam Ewing</p>
+<p>Rick Osborne</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>There are 10 types of people in this world...</p>
-<p>Those who understand binary and those who don't</p>
+<p>What did the router say to the doctor?</p>
+<p>It hurts when IP.</p>
 
 
 Check back in an hour for new joke
