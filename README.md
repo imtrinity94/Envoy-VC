@@ -46,10 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A List of Curated Badges for GitHub](https://envoy1084.hashnode.dev/a-list-of-curated-badges-for-github)
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
-- [YouTube CLI Downloader](https://envoy1084.hashnode.dev/youtube-cli-downloader)
-- [Python Free Resources](https://envoy1084.hashnode.dev/python-free-resources)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +108,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Beware of bugs in the above code; I have only proved it correct, not tried it. </p>
+<p>PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.</p>
 
-<p>Donald Knuth</p>
+<p>Jon Ribbens</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>3 SQL statements walk into a NoSQL bar. Soon, they walk out</p>
-<p>They couldn't find a table.</p>
+<p>Why do C# and Java developers keep breaking their keyboards?</p>
+<p>Because they use a strongly typed language.</p>
 
 
 Check back in an hour for new joke
