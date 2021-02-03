@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Markdown : The Complete Guide](https://envoy1084.hashnode.dev/mastering-markdown-the-complete-guide)
-- [Git and GitHub Essentials - #1 Getting started with Git](https://envoy1084.hashnode.dev/getting-started-with-git)
-- [Learn JavaScript the Eloquent Way-What is JavaScript](https://envoy1084.hashnode.dev/1-what-is-javascript)
-- [A List of Curated Badges for GitHub](https://envoy1084.hashnode.dev/a-list-of-curated-badges-for-github)
-- [Countdown Timer](https://envoy1084.hashnode.dev/countdown-timer)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.</p>
+<p>The difference between theory and practice is that in theory, there is no difference between theory and practice.</p>
 
-<p>Bill Sempf</p>
+<p>Richard Moore</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>To understand what recursion is...</p>
-<p>You must first understand what recursion is</p>
+<p>An IPv6 packet is walking out of the house.</p>
+<p>He goes nowhere.</p>
 
 
 Check back in an hour for new joke
