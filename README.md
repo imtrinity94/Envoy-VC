@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a COVID-19 Tracker using React.js](https://envoy1084.hashnode.dev/create-a-covid-19-tracker-using-reactjs)
-- [Mastering Markdown : The Complete Guide](https://envoy1084.hashnode.dev/mastering-markdown-the-complete-guide)
-- [Git and GitHub Essentials - #1 Getting started with Git](https://envoy1084.hashnode.dev/getting-started-with-git)
-- [Learn JavaScript the Eloquent Way-What is JavaScript](https://envoy1084.hashnode.dev/1-what-is-javascript)
-- [A List of Curated Badges for GitHub](https://envoy1084.hashnode.dev/a-list-of-curated-badges-for-github)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>The difference between theory and practice is that in theory, there is no difference between theory and practice.</p>
+<p>Programming is like sex: one mistake and you’re providing support for a lifetime.</p>
 
-<p>Richard Moore</p>
+<p>Michael Sinz</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>An IPv6 packet is walking out of the house.</p>
-<p>He goes nowhere.</p>
+<p>['hip', 'hip']</p>
+<p>(hip hip array)</p>
 
 
 Check back in an hour for new joke
