@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn JavaScript the Eloquent Way-JavaScript Variables](https://envoy1084.hashnode.dev/javascript-variables)
-- [Create a COVID-19 Tracker using React.js](https://envoy1084.hashnode.dev/create-a-covid-19-tracker-using-reactjs)
-- [Mastering Markdown : The Complete Guide](https://envoy1084.hashnode.dev/mastering-markdown-the-complete-guide)
-- [Git and GitHub Essentials - #1 Getting started with Git](https://envoy1084.hashnode.dev/getting-started-with-git)
-- [Learn JavaScript the Eloquent Way-What is JavaScript](https://envoy1084.hashnode.dev/1-what-is-javascript)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.</p>
+<p>I love deadlines. I like the whooshing sound they make as they fly by.</p>
 
-<p>Jon Ribbens</p>
+<p>Douglas Adams</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A user interface is like a joke.</p>
-<p>If you have to explain it then it is not that good.</p>
+<p>Why do programmers always mix up Halloween and Christmas?</p>
+<p>Because Oct 31 == Dec 25</p>
 
 
 Check back in an hour for new joke
