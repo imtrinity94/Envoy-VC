@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn JavaScript the Eloquent Way-JavaScript Variables](https://envoy1084.hashnode.dev/javascript-variables)
-- [Create a COVID-19 Tracker using React.js](https://envoy1084.hashnode.dev/create-a-covid-19-tracker-using-reactjs)
-- [Mastering Markdown : The Complete Guide](https://envoy1084.hashnode.dev/mastering-markdown-the-complete-guide)
-- [Git and GitHub Essentials - #1 Getting started with Git](https://envoy1084.hashnode.dev/getting-started-with-git)
-- [Learn JavaScript the Eloquent Way-What is JavaScript](https://envoy1084.hashnode.dev/1-what-is-javascript)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.</p>
+<p>In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.</p>
 
-<p>E. W. Dijkstra</p>
+<p>Jeff Atwood</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>['hip', 'hip']</p>
-<p>(hip hip array)</p>
+<p>A SQL query walks into a bar, walks up to two tables and asks...</p>
+<p>'Can I join you?'</p>
 
 
 Check back in an hour for new joke
