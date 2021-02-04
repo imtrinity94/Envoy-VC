@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
-- [Git and GitHub Essentials - #2 Browsing the History](https://envoy1084.hashnode.dev/2-browsing-the-history)
-- [Learn JavaScript the Eloquent Way-JavaScript Variables](https://envoy1084.hashnode.dev/javascript-variables)
-- [Create a COVID-19 Tracker using React.js](https://envoy1084.hashnode.dev/create-a-covid-19-tracker-using-reactjs)
-- [Mastering Markdown : The Complete Guide](https://envoy1084.hashnode.dev/mastering-markdown-the-complete-guide)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.</p>
+<p>In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.</p>
 
-<p>Rick Osborne</p>
+<p>Jeff Atwood</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>What did the router say to the doctor?</p>
-<p>It hurts when IP.</p>
+<p>Why do programmers always mix up Halloween and Christmas?</p>
+<p>Because Oct 31 == Dec 25</p>
 
 
 Check back in an hour for new joke
