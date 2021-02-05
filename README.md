@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
-- [Git and GitHub Essentials - #2 Browsing the History](https://envoy1084.hashnode.dev/2-browsing-the-history)
-- [Learn JavaScript the Eloquent Way-JavaScript Variables](https://envoy1084.hashnode.dev/javascript-variables)
-- [Create a COVID-19 Tracker using React.js](https://envoy1084.hashnode.dev/create-a-covid-19-tracker-using-reactjs)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Perl – The only language that looks the same before and after RSA encryption.</p>
+<p>There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.</p>
 
-<p>Keith Bostic</p>
+<p>C. A. R. Hoare</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>3 SQL statements walk into a NoSQL bar. Soon, they walk out</p>
-<p>They couldn't find a table.</p>
+<p>There are 10 kinds of people in this world.</p>
+<p>Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.</p>
 
 
 Check back in an hour for new joke
