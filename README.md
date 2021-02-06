@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
-- [Git and GitHub Essentials - #2 Browsing the History](https://envoy1084.hashnode.dev/2-browsing-the-history)
-- [Learn JavaScript the Eloquent Way-JavaScript Variables](https://envoy1084.hashnode.dev/javascript-variables)
-- [Create a COVID-19 Tracker using React.js](https://envoy1084.hashnode.dev/create-a-covid-19-tracker-using-reactjs)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.</p>
+<p>Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.</p>
 
-<p>Jeremy S. Anderson</p>
+<p>Albert Einstein</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A DHCP packet walks into a bar and asks for a beer.</p>
-<p>Bartender says, "here, but I’ll need that back in an hour!"</p>
+<p>To understand what recursion is...</p>
+<p>You must first understand what recursion is</p>
 
 
 Check back in an hour for new joke
