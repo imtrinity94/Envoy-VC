@@ -107,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>C++ : Where friends have access to your private members.</p>
+<p>I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.</p>
 
-<p>Gavin Russell Baker</p>
+<p>Bjarne Stroustrup</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>3 SQL statements walk into a NoSQL bar. Soon, they walk out</p>
-<p>They couldn't find a table.</p>
+<p>What's the best thing about a Boolean?</p>
+<p>Even if you're wrong, you're only off by a bit.</p>
 
 
 Check back in an hour for new joke
