@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Scripts-Dogecoin Price Ticker](https://envoy1084.hashnode.dev/dogecoin-price-ticker)
-- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
-- [Git and GitHub Essentials - #2 Browsing the History](https://envoy1084.hashnode.dev/2-browsing-the-history)
-- [Learn JavaScript the Eloquent Way-JavaScript Variables](https://envoy1084.hashnode.dev/javascript-variables)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.</p>
+<p>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.</p>
 
-<p>Bjarne Stroustrup</p>
+<p>Bill Gates</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>How many programmers does it take to change a lightbulb?</p>
-<p>None that's a hardware problem</p>
+<p>A programmer puts two glasses on his bedside table before going to sleep.</p>
+<p>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</p>
 
 
 Check back in an hour for new joke
