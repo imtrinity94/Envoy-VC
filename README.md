@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Scripts-Dogecoin Price Ticker](https://envoy1084.hashnode.dev/dogecoin-price-ticker)
-- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
-- [Git and GitHub Essentials - #2 Browsing the History](https://envoy1084.hashnode.dev/2-browsing-the-history)
-- [Learn JavaScript the Eloquent Way-JavaScript Variables](https://envoy1084.hashnode.dev/javascript-variables)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.</p>
+<p>Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.</p>
 
-<p>Albert Einstein</p>
+<p>Fred Brooks</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>There are 10 types of people in this world...</p>
-<p>Those who understand binary and those who don't</p>
+<p>Why do C# and Java developers keep breaking their keyboards?</p>
+<p>Because they use a strongly typed language.</p>
 
 
 Check back in an hour for new joke
