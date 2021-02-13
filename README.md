@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Published API](https://envoy1084.hashnode.dev/techcrunch-unofficial-api)
-- [Python Scripts-Dogecoin Price Ticker](https://envoy1084.hashnode.dev/dogecoin-price-ticker)
-- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
-- [Git and GitHub Essentials - #2 Browsing the History](https://envoy1084.hashnode.dev/2-browsing-the-history)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.</p>
+<p>We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.</p>
 
-<p>Jon Ribbens</p>
+<p>C. A. R. Hoare</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A programmer puts two glasses on his bedside table before going to sleep.</p>
-<p>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</p>
+<p>Why do programmers always mix up Halloween and Christmas?</p>
+<p>Because Oct 31 == Dec 25</p>
 
 
 Check back in an hour for new joke
