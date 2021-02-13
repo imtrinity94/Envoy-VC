@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Published API](https://envoy1084.hashnode.dev/techcrunch-unofficial-api)
-- [Python Scripts-Dogecoin Price Ticker](https://envoy1084.hashnode.dev/dogecoin-price-ticker)
-- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
-- [Git and GitHub Essentials - #2 Browsing the History](https://envoy1084.hashnode.dev/2-browsing-the-history)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>I don’t care if it works on your machine! We are not shipping your machine!</p>
+<p>Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.</p>
 
-<p>Ovidiu Platon</p>
+<p>Fred Brooks</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>Knock-knock.</p>
-<p>A race condition. Who is there?</p>
+<p>A DHCP packet walks into a bar and asks for a beer.</p>
+<p>Bartender says, "here, but I’ll need that back in an hour!"</p>
 
 
 Check back in an hour for new joke
