@@ -46,7 +46,11 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
+- [My First Published API](https://envoy1084.hashnode.dev/techcrunch-unofficial-api)
+- [Python Scripts-Dogecoin Price Ticker](https://envoy1084.hashnode.dev/dogecoin-price-ticker)
+- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
+- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
