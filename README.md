@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
-- [My First Published API](https://envoy1084.hashnode.dev/techcrunch-unofficial-api)
-- [Python Scripts-Dogecoin Price Ticker](https://envoy1084.hashnode.dev/dogecoin-price-ticker)
-- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.</p>
+<p>On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”</p>
 
-<p>Jon Ribbens</p>
+<p>Charles Babbage</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>An IPv6 packet is walking out of the house.</p>
-<p>He goes nowhere.</p>
+<p>What's the best thing about a Boolean?</p>
+<p>Even if you're wrong, you're only off by a bit.</p>
 
 
 Check back in an hour for new joke
