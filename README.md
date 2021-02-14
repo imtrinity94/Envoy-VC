@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
-- [My First Published API](https://envoy1084.hashnode.dev/techcrunch-unofficial-api)
-- [Python Scripts-Dogecoin Price Ticker](https://envoy1084.hashnode.dev/dogecoin-price-ticker)
-- [Git and GitHub Essentials - #3 Working with Remotes](https://envoy1084.hashnode.dev/git-and-github-essentials-3-working-with-remotes)
-- [Learn JavaScript the Eloquent Way- Arrays , Objects and Functions](https://envoy1084.hashnode.dev/arrays-objects-and-functions)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.</p>
+<p>A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.</p>
 
-<p>Mark Gibbs</p>
+<p>Mitch Ratcliffe</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>How many programmers does it take to change a lightbulb?</p>
-<p>None that's a hardware problem</p>
+<p>The punchline often arrives before the set-up.</p>
+<p>Do you know the problem with UDP jokes?</p>
 
 
 Check back in an hour for new joke
