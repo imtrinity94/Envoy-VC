@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
-- [My First Published API](https://envoy1084.hashnode.dev/techcrunch-unofficial-api)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.</p>
+<p>There are only two kinds of programming languages: those people always bitch about and those nobody uses.</p>
 
-<p>Henry Petroski</p>
+<p>Bjarne Stroustrup</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>The punchline often arrives before the set-up.</p>
-<p>Do you know the problem with UDP jokes?</p>
+<p>What's the object-oriented way to become wealthy?</p>
+<p>Inheritance</p>
 
 
 Check back in an hour for new joke
