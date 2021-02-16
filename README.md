@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
-- [My First Published API](https://envoy1084.hashnode.dev/techcrunch-unofficial-api)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.</p>
+<p>It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.</p>
 
-<p>Jon Ribbens</p>
+<p>E. W. Dijkstra</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>What did the router say to the doctor?</p>
-<p>It hurts when IP.</p>
+<p>A user interface is like a joke.</p>
+<p>If you have to explain it then it is not that good.</p>
 
 
 Check back in an hour for new joke
