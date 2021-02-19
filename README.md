@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.</p>
+<p>In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.</p>
 
-<p>C. A. R. Hoare</p>
+<p>Jeff Atwood</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>An IPv6 packet is walking out of the house.</p>
-<p>He goes nowhere.</p>
+<p>There are 10 types of people in this world...</p>
+<p>Those who understand binary and those who don't</p>
 
 
 Check back in an hour for new joke
