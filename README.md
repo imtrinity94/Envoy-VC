@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>The difference between theory and practice is that in theory, there is no difference between theory and practice.</p>
+<p>Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.</p>
 
-<p>Richard Moore</p>
+<p>Fred Brooks</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>The punchline often arrives before the set-up.</p>
-<p>Do you know the problem with UDP jokes?</p>
+<p>A programmer puts two glasses on his bedside table before going to sleep.</p>
+<p>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</p>
 
 
 Check back in an hour for new joke
