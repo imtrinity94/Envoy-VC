@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>I love deadlines. I like the whooshing sound they make as they fly by.</p>
+<p>Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.</p>
 
-<p>Douglas Adams</p>
+<p>Dick Brandon</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>How many programmers does it take to change a lightbulb?</p>
-<p>None that's a hardware problem</p>
+<p>3 SQL statements walk into a NoSQL bar. Soon, they walk out</p>
+<p>They couldn't find a table.</p>
 
 
 Check back in an hour for new joke
