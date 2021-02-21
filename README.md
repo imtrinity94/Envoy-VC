@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.</p>
+<p>Linux is only free if your time has no value.</p>
 
-<p>Mitch Ratcliffe</p>
+<p>Jamie Zawinski</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>What's the best part about TCP jokes?</p>
-<p>I get to keep telling them until you get them.</p>
+<p>How do you check if a webpage is HTML5?</p>
+<p>Try it out on Internet Explorer</p>
 
 
 Check back in an hour for new joke
