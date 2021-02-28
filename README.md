@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.</p>
+<p>There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.</p>
 
-<p>Henry Petroski</p>
+<p>Jeremy S. Anderson</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A programmer puts two glasses on his bedside table before going to sleep.</p>
-<p>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</p>
+<p>There are 10 kinds of people in this world.</p>
+<p>Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.</p>
 
 
 Check back in an hour for new joke
