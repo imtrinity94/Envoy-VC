@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
-- [Git and GitHub Essentials - #4 Staging](https://envoy1084.hashnode.dev/4-staging)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -119,8 +115,8 @@ Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>If you put a million monkeys at a million keyboards, one of them will eventually write a Java program</p>
-<p>the rest of them will write Perl</p>
+<p>How many programmers does it take to change a lightbulb?</p>
+<p>None that's a hardware problem</p>
 
 
 Check back in an hour for new joke
