@@ -115,8 +115,8 @@ Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A programmer puts two glasses on his bedside table before going to sleep.</p>
-<p>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</p>
+<p>An IPv6 packet is walking out of the house.</p>
+<p>He goes nowhere.</p>
 
 
 Check back in an hour for new joke
