@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>C++ : Where friends have access to your private members.</p>
+<p>It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.</p>
 
-<p>Gavin Russell Baker</p>
+<p>E. W. Dijkstra</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>A programmer puts two glasses on his bedside table before going to sleep.</p>
-<p>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</p>
+<p>What's the best part about TCP jokes?</p>
+<p>I get to keep telling them until you get them.</p>
 
 
 Check back in an hour for new joke
