@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.</p>
+<p>I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.</p>
 
-<p>Jamie Zawinski</p>
+<p>Larry DeLuca</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>Why do programmers always mix up Halloween and Christmas?</p>
-<p>Because Oct 31 == Dec 25</p>
+<p>Why do Java programmers wear glasses?</p>
+<p>Because they don't C#</p>
 
 
 Check back in an hour for new joke
