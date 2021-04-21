@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Beware of bugs in the above code; I have only proved it correct, not tried it. </p>
+<p>Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.</p>
 
-<p>Donald Knuth</p>
+<p>Dick Brandon</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>What's the object-oriented way to become wealthy?</p>
-<p>Inheritance</p>
+<p>The punchline often arrives before the set-up.</p>
+<p>Do you know the problem with UDP jokes?</p>
 
 
 Check back in an hour for new joke
