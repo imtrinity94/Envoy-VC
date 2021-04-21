@@ -107,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.</p>
+<p>I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.</p>
 
-<p>Larry DeLuca</p>
+<p>Bjarne Stroustrup</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>If you put a million monkeys at a million keyboards, one of them will eventually write a Java program</p>
-<p>the rest of them will write Perl</p>
+<p>Why do C# and Java developers keep breaking their keyboards?</p>
+<p>Because they use a strongly typed language.</p>
 
 
 Check back in an hour for new joke
