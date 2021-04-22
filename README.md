@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.</p>
+<p>You should name a variable using the same care with which you name a first-born child.</p>
 
-<p>Bill Gates</p>
+<p>James O. Coplien</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>If you put a million monkeys at a million keyboards, one of them will eventually write a Java program</p>
-<p>the rest of them will write Perl</p>
+<p>A programmer puts two glasses on his bedside table before going to sleep.</p>
+<p>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</p>
 
 
 Check back in an hour for new joke
